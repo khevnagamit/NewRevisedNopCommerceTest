@@ -1,6 +1,3 @@
-*.iml
-target
-.idea
 classes
 *.log
 *.DS_Store
